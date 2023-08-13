@@ -1,1 +1,3 @@
 Hello this is content of 1.txt
+
+And i am happy
